@@ -5,7 +5,7 @@ import logo from "../../assets/img/logo.svg";
 import navIcon1 from "../../assets/img/nav-icon1.svg";
 import navIcon2 from "../../assets/img/github-brands.svg";
 import navIcon3 from "../../assets/img/nav-icon3.svg";
-import MailChimpForm from "../MailChimpForm/mailChimpFOrm";
+import MailChimpForm from "../MailChimpForm/mailChimp";
 
 function Footer() {
   return (
